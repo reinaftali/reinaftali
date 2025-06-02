@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Rei</h1>
-<p>I'm a passionate developer, specializing in MLOps, backend development, and cybersecurity. Currently pursuing a BSc in Computer Science and a graduate of Practical Software Engineering, I enjoy building scalable systems and exploring the intersections of technology and security.</p>
+<p>I'm a passionate developer, specializing in MLOps, backend development, and cybersecurity.
+Currently pursuing a BSc in Computer Science and a graduate of Practical Software Engineering.
+I enjoy building scalable systems and exploring the intersections of technology and security.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
