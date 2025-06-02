@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Rei</h1>
-<p>I'm a passionate developer, specializing in MLOps, backend development, and cybersecurity.
-Currently pursuing a BSc in Computer Science and a graduate of Practical Software Engineering.
+<p>I'm a passionate developer, specializing in MLOps, backend development, and cybersecurity.<br>
+Currently pursuing a BSc in Computer Science and a graduate of Practical Software Engineering.<br>
 I enjoy building scalable systems and exploring the intersections of technology and security.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="left">
